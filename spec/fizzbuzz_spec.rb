@@ -1,5 +1,4 @@
 require_relative '/home/looping-post-0686/rspec-fizzbuzz-online-web-sp-000/fizzbuzz.rb'
-require_relative '../fizzbuzz.rb'
 
 # We are missing a 'require_relative' here. Check README.md for instructions and an explanation! 
 
